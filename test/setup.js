@@ -1,7 +1,3 @@
-// import jsdom from 'jsdom';
-// import chai from 'chai';
-// import chaiImmutable from 'chai-immutable';
-
 const jsdom         = require('jsdom'),
       chai          = require('chai'),
       chaiImmutable = require('chai-immutable');

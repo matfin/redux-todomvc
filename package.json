@@ -23,6 +23,12 @@
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
   },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
   "dependencies": {
     "immutable": "^3.7.6",
     "react": "^0.14.7",
